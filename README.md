@@ -13,3 +13,10 @@ Your mileage may vary. This worked for me (more or less) in April-May 2011. I'm 
 
 --Clay Loveless<br />
 May 16, 2011
+
+<a href="http://twitter.com/share" class="twitter-share-button" data-text="Slay #AtlassianDragons with OS X" data-count="vertical" data-via="claylo">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+PS: Find this useful? Share it!
+
+PPS: Want someone to do this for you? Ping me, I might be available to set it up for you.
+
